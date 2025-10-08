@@ -1,6 +1,4 @@
-# Credit_Card_Transaction_Analysis_Power-BI_Project
-
-Credit Card Transaction Analysis Dashboard | Power BI Project
+# Credit Card Transaction Analysis Dashboard | Power BI Project
 
 Objective: To analyze credit card transaction patterns, spending behavior, and card performance across customer demographics and job types using Power BI’s interactive visualization and DAX modeling.
 
